@@ -146,7 +146,11 @@ li{
 #accordion{
 	margin-bottom: 600px;
 }
-#collapsedOne{
+
+.blog-text{
 	background-color: #f4d78f;
+	padding-left:40px;
+	padding-top:15px;
+	padding-bottom:15px;
 }
 
