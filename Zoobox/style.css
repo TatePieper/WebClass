@@ -1,0 +1,147 @@
+body{
+	background-color: #f4d78f;
+	background-image: url(Images/wallpaper.jpg);
+	background-attachment: fixed;
+
+
+}
+h1, a{
+	font-family: 'Nunito', sans-serif;
+}
+p#hover{
+	margin-left:40px;
+	font-family: 'Nanum Gothic Coding', monospace;
+
+}
+p#lead{
+	font-family: 'Raleway', sans-serif;
+}
+p.card-text{
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+h5.card-title{
+	font-size: 24px;
+}
+#part1{
+	margin-left:20px;
+	margin-top:20px;
+	opacity:1;
+}
+#part1:hover{
+	opacity:0;
+}
+#part2{
+	margin-left:-233px;
+	margin-top:20px;
+	opacity:0;
+}
+#part2:hover{
+	opacity:1;
+}
+.carousel-item{
+	margin:auto;
+
+}
+.carousel{
+	border:solid black 4px;
+	margin-left:300px;
+	margin-right:300px;
+	margin-top:-20px;
+	margin-bottom:100px;
+}
+.jumbotron{
+	background-color:#a5613b;
+	height:220px;
+}
+
+.logo{
+	margin-left:260px;
+	margin-top:-170px;
+	float:center;
+}
+.navbar{
+	margin-top:-40px;
+	margin-bottom: 40px;
+}
+#pricing{
+	float:left;
+	background-color: #f4d78f;
+	border:solid black 3px;
+	margin-left:160px;
+}
+#aboutzoobox{
+	float:left;
+	background-color: #f4d78f;
+	border:solid black 3px;
+	margin-left:20px;
+	margin-bottom: 30px;
+}
+.card-img-top{
+	height:300px;
+}
+.card-link{
+	text-decoration: none;
+	color:black;
+}
+.card-link:hover{
+	color:#a5613b;
+}
+.table{
+	background-color: #97B2D6;
+	float:left;
+	margin-top:-40px;
+
+}
+th.header1{
+	font-family: 'Nunito', sans-serif;
+}
+.sub{
+	font-family: 'Raleway', sans-serif;
+}
+caption{
+	background-color: #97B2D6;
+	padding-left:10px;
+	padding-bottom: 20px;
+	margin-top:-10px;
+	margin-bottom: -20px;
+	border-bottom:solid white 1.5px;
+}
+#details{
+	font-family: 'Nunito', sans-serif;
+	text-align: center;
+	font-size:24px;
+}
+#contents{
+	float:left;
+	margin-left:40px;
+	margin-top:40px;
+	margin-bottom:100px;
+	border:solid black 3px;
+	background-color: #f4d78f;
+	font-family: 'Nunito', sans-serif;
+}
+#logistics{
+	float:left;
+	margin-top: 40px;
+	margin-left:20px;
+	padding-bottom:54px;
+	border:solid black 3px;
+	background-color: #f4d78f;
+	font-family: 'Nunito', sans-serif;
+}
+#blog{
+	font-family: 'Nunito', sans-serif;
+	text-align: center;
+	font-size:24px;
+}
+li{
+	font-size: 18px;
+}
+#accordion{
+	margin-bottom: 600px;
+}
+#collapsedOne{
+	background-color: #f4d78f;
+}
+
