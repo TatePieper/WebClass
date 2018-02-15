@@ -57,6 +57,7 @@ h5.card-title{
 .jumbotron{
 	background-color:#a5613b;
 	height:220px;
+	background-image: url(zooboxlogo1.svg);
 }
 
 .logo{
