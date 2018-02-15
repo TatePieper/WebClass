@@ -9,9 +9,13 @@ h1, a{
 	font-family: 'Nunito', sans-serif;
 }
 p#hover{
-	margin-left:40px;
+	margin-left:330px;
 	font-family: 'Nanum Gothic Coding', monospace;
 
+}
+#hover1{
+	margin-left:60px;
+	font-family: 'Nanum Gothic Coding', monospace;
 }
 p#lead{
 	font-family: 'Raleway', sans-serif;
@@ -22,6 +26,10 @@ p.card-text{
 }
 h5.card-title{
 	font-size: 24px;
+}
+.social-icon{
+	margin-left:280px;
+	margin-top:-160px;
 }
 #part1{
 	margin-left:20px;
@@ -38,6 +46,17 @@ h5.card-title{
 }
 #part2:hover{
 	opacity:1;
+}
+#part10{
+	margin-left:-245px;
+	margin-top:34px;
+}
+#part20:hover{
+	opacity:1; 
+}
+#part20{
+	margin-left:-233px;
+	opacity: 0;
 }
 .carousel-item{
 	margin:auto;
